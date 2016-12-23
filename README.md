@@ -1,2 +1,6 @@
 # piano_linux_embedded
-Projeto de piano utilizando botões, leds e um buzzer.
+
+Plataforma: 			Beaglebone
+Sistema Operacional: 	Debian (Linux Embarcado)
+
+Projeto de um piano utilizando botões, leds e um buzzer.
