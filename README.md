@@ -15,6 +15,7 @@ Debian 32 bits (Embedded Linux)
 
 ## Compilation
 - make
+- make install 
 - note: The makefile is programmed to compile on the pc (x86) and send the binary to the linux root directory.
 
 ## Usage
@@ -25,3 +26,5 @@ Debian 32 bits (Embedded Linux)
 - Buttons
 - LEDs
 - Buzzer
+- SHift register 8 bits
+- 7 segments display
