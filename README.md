@@ -11,8 +11,8 @@ Beaglebone
 Debian 32 bits (Embedded Linux)
 
 ## Compilation
-make
-note: The makefile is programmed to compile on the pc (x86) and send the binary to the linux root directory.
+- make
+- note: The makefile is programmed to compile on the pc (x86) and send the binary to the linux root directory.
 
 ## Usage
 - Connect the components according to the mapping of the GPIOs that are in the headers (.h) files.
