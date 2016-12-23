@@ -4,6 +4,9 @@ Piano using embedded linux
 # Overview
 This is just a project I did just to exercise and practice the concepts of embedded linux and programming, it does not have any professional purpose, but with small changes can be much more robust and more useful.
 
+## Demostration
+https://www.youtube.com/watch?v=UH1cHfweTjo
+
 ## Platform
 Beaglebone
 
